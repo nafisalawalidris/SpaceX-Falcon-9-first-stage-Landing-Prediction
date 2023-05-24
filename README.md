@@ -15,3 +15,10 @@ Most unsuccessful landings are planned. Space X performs a controlled landing in
 In this lab, will make a get request to the SpaceX API. You will also do some basic data wrangling and formating. 
 - Request to the SpaceX API
 - Clean the requested data
+
+## Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia
+In this lab, you will be performing web scraping to collect Falcon 9 historical launch records from a Wikipedia page titled `List of Falcon 9 and Falcon Heavy launches`
+
+https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
+
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_1_L2/images/Falcon9_rocket_family.svg)
