@@ -22,3 +22,21 @@ In this lab, you will be performing web scraping to collect Falcon 9 historical 
 https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_1_L2/images/Falcon9_rocket_family.svg)
+
+Falcon 9 first stage will land successfully
+
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif)
+
+Several examples of an unsuccessful landing are shown here:
+
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
+
+More specifically, the launch records are stored in a HTML table shown below:
+
+![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_1_L2/images/falcon9-launches-wiki.png)
+
+  ## Objectives
+Web scrap Falcon 9 launch records with `BeautifulSoup`: 
+- Extract a Falcon 9 launch records HTML table from Wikipedia
+- Parse the table and convert it into a Pandas data frame
+
