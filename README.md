@@ -68,24 +68,17 @@ SpaceX has gained worldwide attention for a series of historic milestones.
 
 It is the only private company ever to return a spacecraft from low-earth orbit, which it first accomplished in December 2010.
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars wheras other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. 
-
-Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
-
-This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
-
-This dataset includes a record for each payload carried during a SpaceX mission into outer space.
+- Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
+- This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+- This dataset includes a record for each payload carried during a SpaceX mission into outer space.
 
 ### Download the datasets
-
-This assignment requires you to load the spacex dataset.
-
+This task requires to load the spacex dataset.
 In many cases the dataset to be analyzed is available as a .CSV (comma separated values) file, perhaps on the internet. Click on the link below to download and save the dataset (.CSV file):
-
  <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_2/data/Spacex.csv" target="_blank">Spacex DataSet</a>
 
 ## Introduction
 Using this Python notebook you will:
-
 1.  Understand the Spacex DataSet
 2.  Load the dataset  into the corresponding table in a Db2 database
 3.  Execute SQL queries to answer assignment questions 
