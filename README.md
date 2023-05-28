@@ -35,7 +35,7 @@ More specifically, the launch records are stored in a HTML table shown below:
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_1_L2/images/falcon9-launches-wiki.png)
 
-  ## Objectives
+## Objectives
 Web scrap Falcon 9 launch records with `BeautifulSoup`: 
 - Extract a Falcon 9 launch records HTML table from Wikipedia
 - Parse the table and convert it into a Pandas data frame
@@ -56,8 +56,6 @@ Several examples of an unsuccessful landing are shown here:
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
 
 ## SQL Notebook
-
-## Objectives
 ### Introduction
 Using this Python notebook you will:
 1.  Understand the Spacex DataSet
