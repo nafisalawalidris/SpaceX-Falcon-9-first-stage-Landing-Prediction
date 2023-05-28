@@ -102,4 +102,5 @@ This lab contains the following tasks:
 *   **TASK 1:** Mark all launch sites on a map
 *   **TASK 2:** Mark the success/failed launches for each site on the map
 *   **TASK 3:** Calculate the distances between a launch site to its proximities
+
 After completed the above tasks, you should be able to find some geographical patterns about launch sites.
