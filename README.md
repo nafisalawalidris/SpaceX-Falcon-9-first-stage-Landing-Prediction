@@ -55,17 +55,17 @@ Several examples of an unsuccessful landing are shown here:
 
 ![](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif)
 
+## SQL Notebook
+
 ## Objectives
-
-Perform exploratory  Data Analysis and determine Training Labels
-
-*   Exploratory Data Analysis
-*   Determine Training Labels
+### Introduction
+Using this Python notebook you will:
+1.  Understand the Spacex DataSet
+2.  Load the dataset  into the corresponding table in a Db2 database
+3.  Execute SQL queries to answer assignment questions 
 
 ## Overview of the DataSet
-
 SpaceX has gained worldwide attention for a series of historic milestones. 
-
 It is the only private company ever to return a spacecraft from low-earth orbit, which it first accomplished in December 2010.
 SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars wheras other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. 
 - Therefore if we can determine if the first stage will land, we can determine the cost of a launch. 
@@ -77,11 +77,10 @@ This task requires to load the spacex dataset.
 In many cases the dataset to be analyzed is available as a .CSV (comma separated values) file, perhaps on the internet. Click on the link below to download and save the dataset (.CSV file):
  <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_2/data/Spacex.csv" target="_blank">Spacex DataSet</a>
 
-## Introduction
-Using this Python notebook you will:
-1.  Understand the Spacex DataSet
-2.  Load the dataset  into the corresponding table in a Db2 database
-3.  Execute SQL queries to answer assignment questions 
+Perform exploratory  Data Analysis and determine Training Labels
+
+*   Exploratory Data Analysis
+*   Determine Training Labels
 
 In this task,  i will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is due to the fact that SpaceX can reuse the first stage.
 
