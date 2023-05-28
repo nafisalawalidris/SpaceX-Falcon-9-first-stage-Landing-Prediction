@@ -77,16 +77,11 @@ This task requires to load the spacex dataset.
 In many cases the dataset to be analyzed is available as a .CSV (comma separated values) file, perhaps on the internet. Click on the link below to download and save the dataset (.CSV file):
  <a href="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_2/data/Spacex.csv" target="_blank">Spacex DataSet</a>
 
-Perform exploratory  Data Analysis and determine Training Labels
-
-*   Exploratory Data Analysis
-*   Determine Training Labels
-
+## Exploring and Preparing Data
 In this task,  i will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is due to the fact that SpaceX can reuse the first stage.
-
 In this lab, you will perform Exploratory Data Analysis and Feature Engineering.
 
-## Objectives
+### Objectives
 Perform exploratory Data Analysis and Feature Engineering using `Pandas` and `Matplotlib`
 *   Exploratory Data Analysis
 *   Preparing Data  Feature Engineering
